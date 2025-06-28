@@ -5,6 +5,7 @@
     <meta name="description" content="Free online image converter tool. Optimize, compress and convert images to various formats with quality control.">
     <meta name="keywords" content="image converter, image compression, optimize images, jpg converter, png converter, webp converter">
     <meta name="robots" content="index, follow">
+    <meta name="author" content="Arunesh Prajapati">
     <title>ImageConverter Pro | Free Online Image Optimization Tool</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
