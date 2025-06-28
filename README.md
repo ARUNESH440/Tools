@@ -436,12 +436,12 @@
             <div>
                 <div class="ad-box">
                     <!-- Google AdSense Ad Unit -->
-                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_AD_SENSE_ID"
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-9205455303004483/9584625173"
                     crossorigin="anonymous"></script>
                     <!-- Ad Unit 1 -->
                     <ins class="adsbygoogle"
                          style="display:block"
-                         data-ad-client="ca-pub-YOUR_AD_SENSE_ID"
+                         data-ad-client="ca-app-pub-9205455303004483/9584625173"
                          data-ad-slot="1234567890"
                          data-ad-format="auto"
                          data-full-width-responsive="true"></ins>
@@ -563,12 +563,12 @@
             <div>
                 <div class="ad-box">
                     <!-- Google AdSense Ad Unit 2 -->
-                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_AD_SENSE_ID"
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-9205455303004483/9584625173"
                     crossorigin="anonymous"></script>
                     <!-- Ad Unit 2 -->
                     <ins class="adsbygoogle"
                          style="display:block"
-                         data-ad-client="ca-pub-YOUR_AD_SENSE_ID"
+                         data-ad-client="ca-app-pub-9205455303004483/9584625173"
                          data-ad-slot="0987654321"
                          data-ad-format="auto"
                          data-full-width-responsive="true"></ins>
